@@ -1,4 +1,5 @@
 'use client';
+/* This is where the error is coming from */
 
 import { Call, CallRecording } from '@stream-io/video-react-sdk';
 
